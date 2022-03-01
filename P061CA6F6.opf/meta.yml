@@ -1,0 +1,533 @@
+id: P061CA6F6
+initial_creation_type: input
+source_metadata:
+  title: 'Aśvaghoṣa: Buddhacarita'
+  language: sa
+  volumes:
+    ad3830ace6914dc18f72dbc4dec72c15:
+      title: CIII_Verses 1-20
+      base_file: CIII_Verses 1-20.txt
+      work_id: W8A2E2A82
+    2a357df1e695448f8a5fccfd9a2e9c29:
+      title: CIII_Verses 21-40
+      base_file: CIII_Verses 21-40.txt
+      work_id: W8DBB33EC
+    39a2dcfaf7ce45febba2a23612186ff4:
+      title: CIII_Verses 41-60
+      base_file: CIII_Verses 41-60.txt
+      work_id: W68EAA988
+    5f99794d4c1f409cb647187f80d47c1a:
+      title: CIII_Verses 61-65
+      base_file: CIII_Verses 61-65.txt
+      work_id: W4435E7B5
+    3ec79dbca8734fa89f17db67f5f56af3:
+      title: CII_Verses 1-20
+      base_file: CII_Verses 1-20.txt
+      work_id: W8995A0F8
+    5b10b82c43494775a802c426cf699700:
+      title: CII_Verses 21-40
+      base_file: CII_Verses 21-40.txt
+      work_id: WE3C08AEE
+    1fe638d107634d4fb6a732cb656d4ca1:
+      title: CII_Verses 41-56
+      base_file: CII_Verses 41-56.txt
+      work_id: WD07989A7
+    0751c41f08bf41f5a140cc8794a35dfe:
+      title: CIV_Verses 1-20
+      base_file: CIV_Verses 1-20.txt
+      work_id: W4589D455
+    73b72063b8b74b29b6e8133adec46da7:
+      title: CIV_Verses 101-103
+      base_file: CIV_Verses 101-103.txt
+      work_id: W85668B4B
+    6bbca259bf2f431ca4e381f773e8e5bf:
+      title: CIV_Verses 21-40
+      base_file: CIV_Verses 21-40.txt
+      work_id: W8ECF95DE
+    87ee68c0f51d48209749b393b36cb3c9:
+      title: CIV_Verses 41-60
+      base_file: CIV_Verses 41-60.txt
+      work_id: WB63FE7F0
+    3a7a57e9a5dd4fb79eaa691a9374f9f5:
+      title: CIV_Verses 61-80
+      base_file: CIV_Verses 61-80.txt
+      work_id: W1E48489A
+    901ae9a6de7e45d9971fee9238e482ab:
+      title: CIV_Verses 81-100
+      base_file: CIV_Verses 81-100.txt
+      work_id: WDE032A0E
+    3ac7bd3e097d442e874c9807cba4dcab:
+      title: CIX_Verses 1-20
+      base_file: CIX_Verses 1-20.txt
+      work_id: W4F7943C8
+    51cb2eb73a2b4a368e3dc45f25d61b9b:
+      title: CIX_Verses 21-40
+      base_file: CIX_Verses 21-40.txt
+      work_id: W368654EC
+    7c46940d85d940af830943e1ad518a21:
+      title: CIX_Verses 41-60
+      base_file: CIX_Verses 41-60.txt
+      work_id: W86316B18
+    6dd925c4327d49938f95b239419eaa0b:
+      title: CIX_Verses 61-80
+      base_file: CIX_Verses 61-80.txt
+      work_id: W142AA617
+    b9e4ec6331d344a085d1b3bc169c897b:
+      title: CIX_Verses 81-82
+      base_file: CIX_Verses 81-82.txt
+      work_id: WDB3AB452
+    2df47a7c661043ecb36c7b53a6337b8e:
+      title: CI_Verses 1-20
+      base_file: CI_Verses 1-20.txt
+      work_id: W468B9600
+    22a7dc6bc92a4222ad30f6e5cd528b39:
+      title: CI_Verses 21-40
+      base_file: CI_Verses 21-40.txt
+      work_id: WCFAAA3FF
+    2006dd4ce51545c6b56e7fdd450b5e16:
+      title: CI_Verses 41-60
+      base_file: CI_Verses 41-60.txt
+      work_id: W2D330430
+    db77939b0bc14197b969f3f1aa0155f0:
+      title: CI_Verses 61-80
+      base_file: CI_Verses 61-80.txt
+      work_id: W58455D5D
+    b7db195e52364330b68d8b9c6cea2759:
+      title: CI_Verses 81-89
+      base_file: CI_Verses 81-89.txt
+      work_id: WCE33CA41
+    913ac6d093ca4a6ea89c7b570e83983a:
+      title: CVIII_Verses 1-20
+      base_file: CVIII_Verses 1-20.txt
+      work_id: W00098118
+    5ce723add7ec42b7a2ebaf49e1d26012:
+      title: CVIII_Verses 21-40
+      base_file: CVIII_Verses 21-40.txt
+      work_id: WCCC20DC0
+    50c230494b8049529087f08c23306c28:
+      title: CVIII_Verses 41-60
+      base_file: CVIII_Verses 41-60.txt
+      work_id: WCC011127
+    be60e2b4eee64bc8b8a92f9514a4f20a:
+      title: CVIII_Verses 61-80
+      base_file: CVIII_Verses 61-80.txt
+      work_id: W12CC3A5A
+    6d4c83418d4d460db91d9c1ec7a038eb:
+      title: CVIII_Verses 81-87
+      base_file: CVIII_Verses 81-87.txt
+      work_id: WA1200010
+    68d7f9ce645d4949837fd19be5bb21f9:
+      title: CVII_Verses 1-20
+      base_file: CVII_Verses 1-20.txt
+      work_id: W66E10991
+    f99d28ec636840bfbca0916cbf9be73a:
+      title: CVII_Verses 21-40
+      base_file: CVII_Verses 21-40.txt
+      work_id: WA78E8262
+    8b6136b11fd54a66a5730a16f0efad9d:
+      title: CVII_Verses 41-58
+      base_file: CVII_Verses 41-58.txt
+      work_id: W68DEA496
+    a660a59e3cc243aabfe5590428bc6aef:
+      title: CVI_Verses 1-20
+      base_file: CVI_Verses 1-20.txt
+      work_id: WCAD6228E
+    d6d1dc0057f6446e9d63a9a6f6b2bed7:
+      title: CVI_Verses 21-40
+      base_file: CVI_Verses 21-40.txt
+      work_id: W5EAE8B8D
+    b8566e433de64630b7414eef3dbb76d7:
+      title: CVI_Verses 41-60
+      base_file: CVI_Verses 41-60.txt
+      work_id: W52C77CC3
+    1e61223706f4431caf6c28f54b2ce84a:
+      title: CVI_Verses 61-68
+      base_file: CVI_Verses 61-68.txt
+      work_id: W933F3BF9
+    0190ee94dac64d8899c0c42084312b20:
+      title: CV_Verses 1-20
+      base_file: CV_Verses 1-20.txt
+      work_id: W82F61A84
+    7201ad76dd554b848d54e081e500f9f0:
+      title: CV_Verses 21-40
+      base_file: CV_Verses 21-40.txt
+      work_id: W378135A6
+    f90d24085757443787965f3d5a18c4cc:
+      title: CV_Verses 41-60
+      base_file: CV_Verses 41-60.txt
+      work_id: WB7762B67
+    0d7b4a6d63f74f84aff5115c761a8532:
+      title: CV_Verses 61-80
+      base_file: CV_Verses 61-80.txt
+      work_id: W9F7E7992
+    96995fb6ca994bc39363d97a922662e6:
+      title: CV_Verses 81-87
+      base_file: CV_Verses 81-87.txt
+      work_id: WBBF74DFE
+    eb46cad8a09142368a97fa5644b760b7:
+      title: CXIII_Verses 1-20
+      base_file: CXIII_Verses 1-20.txt
+      work_id: W55056DB9
+    a628b2567c044300b6e2ed711f9126af:
+      title: CXIII_Verses 21-40
+      base_file: CXIII_Verses 21-40.txt
+      work_id: W6311B7B6
+    96e943eb03394494b32a3bfd0bf672b5:
+      title: CXIII_Verses 41-60
+      base_file: CXIII_Verses 41-60.txt
+      work_id: W9B0A09C9
+    56293a0ba42141ef961fe37f594d0b4e:
+      title: CXIII_Verses 61-73
+      base_file: CXIII_Verses 61-73.txt
+      work_id: WF7DC474D
+    915c6ff029d64253a94f8c8510a8278e:
+      title: CXII_Verse 121
+      base_file: CXII_Verse 121.txt
+      work_id: WF2BB8228
+    8ce71dcd05d54d1fb48425ac96881ed5:
+      title: CXII_Verses 1-20
+      base_file: CXII_Verses 1-20.txt
+      work_id: W1CDCCCBE
+    1c9bf64c7da846db8336328f2796b1a1:
+      title: CXII_Verses 101-120
+      base_file: CXII_Verses 101-120.txt
+      work_id: W8E0EA57E
+    667ab879adab413985465374e4204c3c:
+      title: CXII_Verses 21-40
+      base_file: CXII_Verses 21-40.txt
+      work_id: WA8CAA28D
+    f7e36574bce049898264f1b6cfa32d9c:
+      title: CXII_Verses 41-60
+      base_file: CXII_Verses 41-60.txt
+      work_id: W6744F379
+    e65c96de964e4d8ca4cc543dda6ed045:
+      title: CXII_Verses 61-80
+      base_file: CXII_Verses 61-80.txt
+      work_id: W445F4FD7
+    5f49ed93818f442084f915767655810e:
+      title: CXII_Verses 81-100
+      base_file: CXII_Verses 81-100.txt
+      work_id: W47FBBED4
+    b317603d7bb54662aa877602a98fad21:
+      title: CXIV_Verses 1-20
+      base_file: CXIV_Verses 1-20.txt
+      work_id: WF4FFF41F
+    cc74b33c62224fec94dc4f2504964af0:
+      title: CXIV_Verses 101-107
+      base_file: CXIV_Verses 101-107.txt
+      work_id: W4DAE3D40
+    4f582d79f9804947a63deb1e9b39b00f:
+      title: CXIV_Verses 21-40
+      base_file: CXIV_Verses 21-40.txt
+      work_id: W286F2394
+    0b4032114ecf4aa6a030499c3d4a7e04:
+      title: CXIV_Verses 41-60
+      base_file: CXIV_Verses 41-60.txt
+      work_id: W524D4A93
+    e647073a38ce4b0092c5974b9f8e4d8b:
+      title: CXIV_Verses 61-80
+      base_file: CXIV_Verses 61-80.txt
+      work_id: W2666C684
+    b097d82fbb92433bbcba3c112d7d4da7:
+      title: CXIV_Verses 81-100
+      base_file: CXIV_Verses 81-100.txt
+      work_id: W7C7996F6
+    bb02e3c5730249b2954a0aa8dec9db93:
+      title: CXIX_Verses 1-20
+      base_file: CXIX_Verses 1-20.txt
+      work_id: W9BB2224B
+    e91e1dfc82574017bd8de51d46e7c93f:
+      title: CXIX_Verses 21-40
+      base_file: CXIX_Verses 21-40.txt
+      work_id: WC5BC7CB8
+    932b661bc1524589938fcd78b6300957:
+      title: CXIX_Verses 41-56
+      base_file: CXIX_Verses 41-56.txt
+      work_id: W247F4477
+    20d52e8386424d1e8210745c3a700a75:
+      title: CXI_Verses 1-20
+      base_file: CXI_Verses 1-20.txt
+      work_id: W4DD06CDD
+    0e1eabfb14af42afaa647ce42d9f3a2f:
+      title: CXI_Verses 21-40
+      base_file: CXI_Verses 21-40.txt
+      work_id: WFC128682
+    5fa91ed1b563492396fd59d2d99d4fd8:
+      title: CXI_Verses 41-60
+      base_file: CXI_Verses 41-60.txt
+      work_id: W78FDD411
+    2714dcbd1c1345a7ae7a7e5271dc4844:
+      title: CXI_Verses 61-73
+      base_file: CXI_Verses 61-73.txt
+      work_id: W42ED941E
+    4e83dde754854f95b014dca952ab740b:
+      title: CXVIII_Verses 1-20
+      base_file: CXVIII_Verses 1-20.txt
+      work_id: WABDE1BC1
+    7219d95017bb4e58ba4a7343a188ec61:
+      title: CXVIII_Verses 21-40
+      base_file: CXVIII_Verses 21-40.txt
+      work_id: W7FFCA2C7
+    40162f7259684f81b896672784f5fa01:
+      title: CXVIII_Verses 41-60
+      base_file: CXVIII_Verses 41-60.txt
+      work_id: W70659366
+    b179d36c0d4844e4b89f1127d467be85:
+      title: CXVIII_Verses 61-80
+      base_file: CXVIII_Verses 61-80.txt
+      work_id: WCEA8D0A0
+    f8db7590ca854b4194c3f0634f4b99d2:
+      title: CXVIII_Verses 81-87
+      base_file: CXVIII_Verses 81-87.txt
+      work_id: W4D7D257D
+    f9ad35c229e44336ad72e62663327c11:
+      title: CXVII_Verse 41
+      base_file: CXVII_Verse 41.txt
+      work_id: W47BCBB3C
+    071ef86318fb40129f746815b5b5ebb6:
+      title: CXVII_Verses 1-20
+      base_file: CXVII_Verses 1-20.txt
+      work_id: WC212C2CF
+    b76f4e9b812549be8e5b78f900c732a1:
+      title: CXVII_Verses 21-40
+      base_file: CXVII_Verses 21-40.txt
+      work_id: W18F1E926
+    5bb06c59bb654a019d01e5f171f158e1:
+      title: CXVI_Verses 1-20
+      base_file: CXVI_Verses 1-20.txt
+      work_id: W134EDD88
+    b03a025b61904700bc21a967c7b0ac2a:
+      title: CXVI_Verses 21-40
+      base_file: CXVI_Verses 21-40.txt
+      work_id: WC7690C7C
+    673ef1c884264c22b9cf960eff0d318b:
+      title: CXVI_Verses 41-60
+      base_file: CXVI_Verses 41-60.txt
+      work_id: W1983D06A
+    56afec50fe654a3eb2fb04a5b178f8c7:
+      title: CXVI_Verses 61-80
+      base_file: CXVI_Verses 61-80.txt
+      work_id: WEACCB176
+    5502391fa27b4306b4af77e32d28c89f:
+      title: CXVI_Verses 81-95
+      base_file: CXVI_Verses 81-95.txt
+      work_id: W051D17DF
+    74b2f1d4aa3940e1a254dee2a0831f47:
+      title: CXV_Verses 1-20
+      base_file: CXV_Verses 1-20.txt
+      work_id: WB1934A71
+    cd4e164443d94768a99031e7ad59924e:
+      title: CXV_Verses 21-40
+      base_file: CXV_Verses 21-40.txt
+      work_id: WDE0ABEA7
+    66d59e8f1717410bb3088c8dcca676c5:
+      title: CXV_Verses 41-58
+      base_file: CXV_Verses 41-58.txt
+      work_id: W1AF85ADA
+    4dabceaee35c4280be7f0dfba6389d4b:
+      title: CXXIII_Verses 1-20
+      base_file: CXXIII_Verses 1-20.txt
+      work_id: W4D872F7F
+    5875264f9cf9408ba1dee07112d4b1c0:
+      title: CXXIII_Verses 21-40
+      base_file: CXXIII_Verses 21-40.txt
+      work_id: W1545EEC8
+    2a3fce3cd24f4abdb192309f43428508:
+      title: CXXIII_Verses 41-60
+      base_file: CXXIII_Verses 41-60.txt
+      work_id: W8882236B
+    aa71d78067384401a386adb63807a573:
+      title: CXXIII_Verses 61-94
+      base_file: CXXIII_Verses 61-94.txt
+      work_id: WB9BB088C
+    809218e700f74663975dd34a3260ed58:
+      title: CXXII_Verses 1-20
+      base_file: CXXII_Verses 1-20.txt
+      work_id: WC6709939
+    c7be9076eb8449c1a3be683b452822ae:
+      title: CXXII_Verses 21-40
+      base_file: CXXII_Verses 21-40.txt
+      work_id: W2573F3D1
+    6004bca9a9924684be98d847b2bc0afb:
+      title: CXXII_Verses 41-55
+      base_file: CXXII_Verses 41-55.txt
+      work_id: W469D42B8
+    7d7d1b057e7a4eae9c3fdfe89e9549ab:
+      title: CXXIV_Verses 1-20
+      base_file: CXXIV_Verses 1-20.txt
+      work_id: WD1FB0414
+    7aac1808730b4536b4a9266e75ffc230:
+      title: CXXIV_Verses 21-40
+      base_file: CXXIV_Verses 21-40.txt
+      work_id: WA0949A92
+    106f57b7addf4bad9c53e442d43be17f:
+      title: CXXIV_Verses 41-60
+      base_file: CXXIV_Verses 41-60.txt
+      work_id: W6D2A0001
+    a38058c150ca4509adff5e095d470f21:
+      title: CXXIV_Verses 61-64
+      base_file: CXXIV_Verses 61-64.txt
+      work_id: W656EF044
+    86a62db7c8c9467993b5d3909f68d818:
+      title: CXXI_Verses 1-20
+      base_file: CXXI_Verses 1-20.txt
+      work_id: W6EEF8E30
+    97d5f23df174410cbc247fcde8e657d3:
+      title: CXXI_Verses 21-40
+      base_file: CXXI_Verses 21-40.txt
+      work_id: WD70A2AC6
+    844fc2e264154d858ac905b2c8a30aab:
+      title: CXXI_Verses 41-60
+      base_file: CXXI_Verses 41-60.txt
+      work_id: W96EE6D91
+    f08050bdac1c45788f1b04e3b658965b:
+      title: CXXI_Verses 61-65
+      base_file: CXXI_Verses 61-65.txt
+      work_id: WC9C20E74
+    09e8a6de725244ca8e920169189e48ef:
+      title: CXXVIII_Verses 1-20
+      base_file: CXXVIII_Verses 1-20.txt
+      work_id: W008C749B
+    6eff870ce81b4cbba1f2429c73ce71d2:
+      title: CXXVIII_Verses 21-40
+      base_file: CXXVIII_Verses 21-40.txt
+      work_id: W6EB668C5
+    f8056c5ac0cd42e78161c7b681638fe6:
+      title: CXXVIII_Verses 41-60
+      base_file: CXXVIII_Verses 41-60.txt
+      work_id: W1066820C
+    2f42895471074fb38ac09597f0a1f1ca:
+      title: CXXVIII_Verses 61-75
+      base_file: CXXVIII_Verses 61-75.txt
+      work_id: W2F62229D
+    34ac8808bf7e4184b163c2a4b6e3efd9:
+      title: CXXVII_Verses 1-20
+      base_file: CXXVII_Verses 1-20.txt
+      work_id: WFFEE8F24
+    68d5bbe70f1245bcb83c3f3f34898c13:
+      title: CXXVII_Verses 21-40
+      base_file: CXXVII_Verses 21-40.txt
+      work_id: W43452C2A
+    aa55a954848546d1a535d3baf60b1cbb:
+      title: CXXVII_Verses 41-60
+      base_file: CXXVII_Verses 41-60.txt
+      work_id: WA14C67B4
+    8fba15a1210a4475b95e5961dce04c2f:
+      title: CXXVII_Verses 61-80
+      base_file: CXXVII_Verses 61-80.txt
+      work_id: W050C3338
+    59318d48fcd94373a2f6b45993bb6997:
+      title: CXXVII_Verses 81-84
+      base_file: CXXVII_Verses 81-84.txt
+      work_id: WD38081FC
+    ddb291f8298e473bb584dd81537fa776:
+      title: CXXVI_Verses 1-20
+      base_file: CXXVI_Verses 1-20.txt
+      work_id: W0C90E576
+    30ab859375264fc684cc34bf32f8657c:
+      title: CXXVI_Verses 101-106
+      base_file: CXXVI_Verses 101-106.txt
+      work_id: W819A3E91
+    2ec29ec029604c5ca10660f9ad18a3e3:
+      title: CXXVI_Verses 21-40
+      base_file: CXXVI_Verses 21-40.txt
+      work_id: WB05DD3DB
+    18dd711606ae4bada969929d670b0981:
+      title: CXXVI_Verses 41-60
+      base_file: CXXVI_Verses 41-60.txt
+      work_id: WA6540433
+    9c21a0224fde4531a8cf7f67c7fc8069:
+      title: CXXVI_Verses 61-80
+      base_file: CXXVI_Verses 61-80.txt
+      work_id: WA069A30D
+    a2a9a7212b4340d39ba0af1eb76b7714:
+      title: CXXVI_Verses 81-100
+      base_file: CXXVI_Verses 81-100.txt
+      work_id: W24041E7D
+    eb85da85f9944d3c9a4e2a9386995a72:
+      title: CXXV_Verse 81
+      base_file: CXXV_Verse 81.txt
+      work_id: W0DF4445B
+    e1a0aa6006234e5e9a8b8da432b7324e:
+      title: CXXV_Verses 1-20
+      base_file: CXXV_Verses 1-20.txt
+      work_id: W898B13B5
+    1670898497224cdabe7dad01c04a514c:
+      title: CXXV_Verses 21-40
+      base_file: CXXV_Verses 21-40.txt
+      work_id: W5DA675DD
+    0857ca9672e24276bc3b28e4b50ac565:
+      title: CXXV_Verses 41-60
+      base_file: CXXV_Verses 41-60.txt
+      work_id: WB0B3BB72
+    e0bac106b2fd4e81bca94b54ee3a066a:
+      title: CXXV_Verses 61-80
+      base_file: CXXV_Verses 61-80.txt
+      work_id: W9B3A6846
+    875dc3f620c343bc8ca9257e976963b1:
+      title: CXX_Verses 1-20
+      base_file: CXX_Verses 1-20.txt
+      work_id: W6AB2FEB6
+    3875c5dc47044110bf355190aa102756:
+      title: CXX_Verses 21-40
+      base_file: CXX_Verses 21-40.txt
+      work_id: WEDB647DE
+    72fed70038354b4396d3bbef97f69b3c:
+      title: CXX_Verses 41-58
+      base_file: CXX_Verses 41-58.txt
+      work_id: W70391490
+    b5bab78518df4ccbbf1476a54161323d:
+      title: CX_Verse 41
+      base_file: CX_Verse 41.txt
+      work_id: W6686938C
+    8eee160b0c4d45d997153f64093ef7d6:
+      title: CX_Verses 1-20
+      base_file: CX_Verses 1-20.txt
+      work_id: WA0223448
+    8e293a1c4d1e411b9e15044b3ef1845d:
+      title: CX_Verses 21-40
+      base_file: CX_Verses 21-40.txt
+      work_id: WAAA6FF66
+    774dfb36fe6a400885e942ca5ac86398:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: W4524D3C2
+    36f2fafa3aef4698b753777eee432cf7:
+      title: Preface
+      base_file: Preface.txt
+      work_id: W98CF49FB
+    12ffe6eb199f4347a8c2a2fd95c51039:
+      title: Title
+      base_file: Title.txt
+      work_id: W7BB5412E
+  chapter_to_tile:
+    CI: 'Chapter 1: Bhagavatprasūti'
+    CII: 'Chapter 2: Antaḥpuravihāra'
+    CIII: 'Chapter 3: Saṃvegotpatti'
+    CIV: 'Chapter 4: Strīvighātana'
+    CV: 'Chapter 5: Abhiniṣkramaṇa'
+    CVI: 'Chapter 6: Chandakanivartana'
+    CVII: 'Chapter 7: Tapovanapraveśa'
+    CVIII: 'Chapter 8: Antaḥpuravilāpa'
+    CIX: 'Chapter 9: Kumārānveṣaṇa'
+    CX: 'Chapter 10: Śreṇyābhigamana'
+    CXI: 'Chapter 11: Kāmavigarhaṇa'
+    CXII: 'Chapter 12: Arāḍadarśana'
+    CXIII: 'Chapter 13: Māravijaya'
+    CXIV: 'Chapter 14: Englightenment'
+    CXV: 'Chapter 15: Turning the Wheel of the Law'
+    CXVI: 'Chapter 16: Many Conversions'
+    CXVII: 'Chapter 17: Conversion (pravrajyā) of the Great Disciples'
+    CXVIII: 'Chapter 18: The Instruction of Anāthapiṇḍada'
+    CXIX: 'Chapter 19: The Meeting of Father and Son'
+    CXX: 'Chapter 20: Acceptance of Jetavana'
+    CXXI: 'Chapter 21: Progress (srotas) of the Mission'
+    CXXII: 'Chapter 22: The Visit to Amrapāli''s Grove'
+    CXXIII: 'Chapter 23: Fixing the Factors of Bodily Life'
+    CXXIV: 'Chapter 24: Compassion for the Licchavis'
+    CXXV: 'Chapter 25: The Journey to Nirvāṇa'
+    CXXVI: 'Chapter 26: The Mahāparinirvāṇa'
+    CXXVII: 'Chapter 27: Eulogy of Nirvāṇa'
+    CXXVIII: 'Chapter 28: The Division of the Relics'
+created_at: '2022-03-01T23:45:07.920041'
+last_modified_at: '2022-03-01T23:45:07.920090'

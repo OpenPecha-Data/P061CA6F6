@@ -1,0 +1,104 @@
+id: 2f8f0716d5334b318e8367cd9847c4be
+annotation_type: Segment
+revision: '00001'
+annotations:
+  b381963b543b47668ead0db765806624:
+    span:
+      start: 0
+      end: 98
+    metadata: {}
+  6b09aa81ded342c0847fb2151033e9e4:
+    span:
+      start: 101
+      end: 205
+    metadata: {}
+  7e592a5075d54a8698b0ee111bf54339:
+    span:
+      start: 208
+      end: 308
+    metadata: {}
+  a24fd216f01c46be92739e5fd7c5435e:
+    span:
+      start: 311
+      end: 413
+    metadata: {}
+  b24b33c2b1244e1583333c7980305c53:
+    span:
+      start: 416
+      end: 507
+    metadata: {}
+  3768c60d2d424b0e94a0e11b59617f8f:
+    span:
+      start: 510
+      end: 605
+    metadata: {}
+  fc845d54cec54238b3851db31b5e1db0:
+    span:
+      start: 608
+      end: 716
+    metadata: {}
+  950623c32d11411288cf1c734f72d2dd:
+    span:
+      start: 719
+      end: 820
+    metadata: {}
+  39cbd57766cb4dbda0a46fba93a35b93:
+    span:
+      start: 823
+      end: 923
+    metadata: {}
+  3b44dfa43be54b32a87e1d4b7953d315:
+    span:
+      start: 926
+      end: 1034
+    metadata: {}
+  f32f1f7ce32a44c09f2571fd0e7fae43:
+    span:
+      start: 1037
+      end: 1139
+    metadata: {}
+  aacbbc1efb9f40b6aacb07ff8985a62b:
+    span:
+      start: 1142
+      end: 1241
+    metadata: {}
+  51e7052be0b34188a0790df3d1d77d53:
+    span:
+      start: 1244
+      end: 1344
+    metadata: {}
+  0d7e00b9fc7b4a0b9f6ee1b6b78437c6:
+    span:
+      start: 1347
+      end: 1449
+    metadata: {}
+  b7f55c45f70b483c8685404fb4d381dd:
+    span:
+      start: 1452
+      end: 1555
+    metadata: {}
+  3e38c09a11c9407ea61a4c7cd3c7c31d:
+    span:
+      start: 1558
+      end: 1663
+    metadata: {}
+  d891863447f74e5e8ecf914151780d78:
+    span:
+      start: 1666
+      end: 1770
+    metadata: {}
+  8398c73ab6174472b45ffd7086c2a4a5:
+    span:
+      start: 1773
+      end: 1882
+    metadata: {}
+  d98a984db7cb40cb947954bb04d05ca7:
+    span:
+      start: 1885
+      end: 2001
+    metadata: {}
+  c6ad0f31dfb34b56b9232ada103080af:
+    span:
+      start: 2004
+      end: 2113
+    metadata: {}
